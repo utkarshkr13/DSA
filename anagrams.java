@@ -35,6 +35,7 @@ public class anagrams {
         System.out.println("Enter Second String : ");
         String b = sc.next();
 
+        System.out.print("The Strings "+a+" & "+b+" Are Anagram: ");
         System.out.println(anag(a, b));
 
 
