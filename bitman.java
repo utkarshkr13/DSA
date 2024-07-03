@@ -11,7 +11,10 @@ public class bitman {
         }
 
     }
+    
     public static void main(String args[]){
+        //Giving value to the function
+        oddoreven(22);
         oddoreven(5);
         oddoreven(2);
         oddoreven(11);
