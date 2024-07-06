@@ -10,6 +10,7 @@ public class getithbit {
         }
     }
     public static void main(String args[]){
-        System.out.println(getbit(10, 3));
+        System.out.println("The bit is "+getbit(15, 2));
+
     }
 }
