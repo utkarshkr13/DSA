@@ -4,10 +4,10 @@ public class bitman {
         int bitmask = 1;
         if ((n & bitmask)==0){
             //even number
-            System.out.println("Even Number");
+            System.out.println("The Number is Even");
         }
         else{
-            System.out.println("Odd Number");
+            System.out.println("The Number is Odd");
         }
 
     }
